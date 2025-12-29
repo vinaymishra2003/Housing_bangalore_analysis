@@ -23,7 +23,6 @@ The dataset contains information related to luxury housing properties in Bangalo
 ## Database Design
 SQL scripts used in this project are available in the `sql/` folder:
 - `schema.sql` – Database and table creation
-- `analysis_queries.sql` – Basic SQL queries used for analysis
 
 ## Power BI Visualizations
 The Power BI dashboard includes:
